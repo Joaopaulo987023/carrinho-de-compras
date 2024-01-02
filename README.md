@@ -1,6 +1,7 @@
-# React + Vite
+# Carrinho de compras
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Joaopaulo987023/carrinho-de-compras/blob/main/LICENSE)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
 
 Currently, two official plugins are available:
 
